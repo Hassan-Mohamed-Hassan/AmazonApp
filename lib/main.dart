@@ -6,7 +6,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hexcolor/hexcolor.dart';
 
-import 'Modules/honeScreen.dart';
+import 'Modules/homeScreen.dart';
 import 'controllers/CashHelper.dart';
 import 'controllers/dioHelper.dart';
 import 'controllers/states.dart';
